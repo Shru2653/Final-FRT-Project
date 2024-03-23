@@ -1,6 +1,8 @@
 This is 
 final project 
-Same Link https://akac.netlify.app/
+Same Link 
+https://yellow-rock-0398a1c10.4.azurestaticapps.net
+
 
 The current Abasaheb Kakade Art's College,Shevgaon's website is outdated and difficult to navigate, making it challenging for users to find the information they need. This can lead to a number of problems, including:
 Frustration for users: Users may become frustrated when they are unable to find the information they need on the website. This can lead to a negative impression of the college and a decision to not apply or enroll.
